@@ -17,5 +17,3 @@ class Figure(ABC):
             raise ValueError("Не является объектом или экземпляром класса Figure или его подкласса.")
 
         return self.area + other_figure.area
-
-

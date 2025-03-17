@@ -1,6 +1,6 @@
 import pytest
 
-from scr.Circle import Circle
+from scr.circle import Circle
 
 class TestCircle:
 

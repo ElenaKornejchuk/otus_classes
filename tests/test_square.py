@@ -1,6 +1,6 @@
 import pytest
 
-from scr.Square import Square
+from scr.square import Square
 
 class TestSquare:
     @pytest.mark.parametrize("side_a, area", [

@@ -1,6 +1,6 @@
 import pytest
 
-from scr.Rectangle import Rectangle
+from scr.rectangle import Rectangle
 
 class TestRectangle:
 

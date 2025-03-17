@@ -1,6 +1,6 @@
 import pytest
 
-from scr.Triangle import Triangle
+from scr.triangle import Triangle
 
 class TestTriangle:
 
